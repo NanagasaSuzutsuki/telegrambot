@@ -109,5 +109,9 @@ Structural research graph integration
 
 Multi-source paper support
 
+会接入semantic scholar 的api（申请中）进行进一步的更新和申请教程
+
+I will integrate with the Semantic Scholar API (application in progress) for further updates and application tutorials.
+
 
 
