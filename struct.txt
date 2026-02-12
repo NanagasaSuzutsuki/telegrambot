@@ -1,0 +1,18 @@
+main.py
+
+core/
+   events.py
+   state.py
+   pipeline.py
+   rank.py
+   models.py              
+   fetch/
+       base.py            
+       arxiv.py           
+       manager.py         
+
+storage/
+   events.jsonl
+
+bot/
+   telegram.py
